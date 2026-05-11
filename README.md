@@ -47,13 +47,13 @@ The dashboard helps analyze:
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](Screenshots/dashboard-full.png)
+![Dashboard](Screenshots/Dashboard-full.png)
 
 ### KPI Section
-![KPIs](Screenshots/dashboard-kpis.png)
+![KPIs](Screenshots/KPI.png)
 
 ### Charts Section
-![Charts](Screenshots/dashboard-charts.png)
+![Charts](Screenshots/PIVOT 1.png)
 
 ## Insights
 
