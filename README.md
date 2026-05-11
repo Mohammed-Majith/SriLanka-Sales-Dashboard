@@ -44,6 +44,17 @@ The dashboard helps analyze:
 * Completion Rate
 * Cancelled Orders
 
+## Dashboard Preview
+
+### Main Dashboard
+![Dashboard](Screenshots/dashboard-full.png)
+
+### KPI Section
+![KPIs](Screenshots/dashboard-kpis.png)
+
+### Charts Section
+![Charts](Screenshots/dashboard-charts.png)
+
 ## Insights
 
 * Electronics generated the highest revenue
