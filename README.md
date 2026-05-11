@@ -47,14 +47,13 @@ The dashboard helps analyze:
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](Screenshots/Dashboard-full.png)
+![Dashboard](Screenshots/dashboard-full.png)
 
 ### KPI Section
-![KPIs](Screenshots/KPI.png)
+![KPIs](Screenshots/dashboard-kpis.png)
 
 ### Charts Section
-![Charts](Screenshots/PIVOT 1.png)
-
+![Charts](Screenshots/dashboard-charts.png)
 ## Insights
 
 * Electronics generated the highest revenue
